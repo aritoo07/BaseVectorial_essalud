@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-dotenv
+openai
+google-genai
+sentence-transformers
+faiss-cpu
+numpy
+pydantic
+langchain-text-splitters
+pymupdf
+rapidocr-onnxruntime
+python-multipart
+requests
+jinja2
